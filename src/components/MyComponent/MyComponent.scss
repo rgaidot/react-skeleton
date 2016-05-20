@@ -1,0 +1,14 @@
+:export {
+    MyComponent: MyComponent;
+    Title: Title;
+}
+
+.MyComponent {
+    color: #ffffff;
+    background-color: #1E88E5;
+    padding: .2rem 5rem 5rem;
+
+    .Title {
+        font-size: 2rem;
+    }
+}
